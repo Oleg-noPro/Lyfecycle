@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lyfecycle</string>
+    <string name="height">Введите рост в сантиметрах</string>
+    <string name="weight">Введите вес в килограммах</string>
+    <string name="calculate_imt">Расчитать</string>
+    <string name="IMT_result">Индекс массы тела</string>
+    <string name="advice">Рекомендации</string>
+</resources>
